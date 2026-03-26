@@ -1,5 +1,5 @@
-# Game Saving Loader
+# TypeScript Cart
 
 ![CI](https://github.com/ksanr/ajs-ts-template/actions/workflows/ci.yml/badge.svg)
 
-Класс для асинхронной загрузки сохранений игры.
+Проект для управления корзиной покупок с поддержкой различных типов товаров (цифровых и физических).
